@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="17">
+<orig_map class_id="0" tracking_level="0" version="0">
+	<count>9</count>
+	<item_version>0</item_version>
+	<item class_id="1" tracking_level="0" version="0">
+		<first>1</first>
+		<second>1:Bob:Bark:24:R&amp;D</second>
+	</item>
+	<item>
+		<first>10</first>
+		<second>10:Katy:Wright:23:Café</second>
+	</item>
+	<item>
+		<first>2</first>
+		<second>2:Jim:Hoppen:36:Marketing</second>
+	</item>
+	<item>
+		<first>3</first>
+		<second>3:Mark:Wessels:80:Retired</second>
+	</item>
+	<item>
+		<first>4</first>
+		<second>4:John:Peterson:15:Student</second>
+	</item>
+	<item>
+		<first>5</first>
+		<second>5:Sally:Coffin:19:Student</second>
+	</item>
+	<item>
+		<first>8</first>
+		<second>8:Mary:Park:32:Reception</second>
+	</item>
+	<item>
+		<first>9</first>
+		<second>9:Antonette:Major:41:Shipping</second>
+	</item>
+	<item>
+		<first>ID</first>
+		<second>ID:FNAME:LNAME:AGE:DEPT</second>
+	</item>
+</orig_map>
+</boost_serialization>
+
